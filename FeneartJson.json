@@ -3,4 +3,6 @@
     {"id":1,"name":"Colar Indigena","location":"Feira Indigena","price":"R$2,99"}, 
     {"id":2,"name":"Churros","location":"Praça Alimentação","price":"R$3,99"},
     {"id":3,"name":"Coxinha Nordestina","location":"Praça Alimentação","price":"R$2,99"},
-    {"id":4,"name":"Chapeus","location":"Acessorios","price":"R$9,99"}]}
+    {"id":4,"name":"Chapeus","location":"Acessorios","price":"R$9,99"},
+    {"id":5,"name":"Caneta","location":"Material","price":"R$1,49"}
+]}
