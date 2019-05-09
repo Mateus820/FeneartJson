@@ -1,1 +1,3 @@
-{"products":[{"id":0,"name":"Colar","location":"Av. Mulher Maravilha","price":"2,99"}]}
+{"products":[{"id":0,"name":"Colar","location":"Av. Mulher Maravilha","price":"2,99"},
+            {"id":1,"name":"Lapís","location":"Av. Papeis e Folhas","price":"0,99"}
+            ]}
