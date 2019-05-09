@@ -1,4 +1,5 @@
 {"products": [ 
     {"id":0,"name":"Lasanha","location":"Av. Mulher Maravilha","price":"R$2,99"},
     {"id":1,"name":"Carne Vegana","location":"Av. Mulher Maravilha","price":"R$7,99"}, 
-    {"id":2,"name":"Churros Espacial","location":"Stande Espaço","price":"R$15,99"}]}
+    {"id":2,"name":"Churros Espacial","location":"Stande Espaço","price":"R$15,99"},
+    {"id":3,"name":"Coxinha do deus","location":"Stande Comidas do Olímpo","price":"R$2,99"}]}
